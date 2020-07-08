@@ -88,8 +88,7 @@ def adding_matz
         :known_for => "Unix",
         :languages => ["C"]
       }
-    }
-    }
+    
 }
      
     programmer_hash.merge(:yukihiro_matsumoto=>{:known_for=>"Ruby"
