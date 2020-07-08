@@ -92,7 +92,7 @@ programmer_hash.merge(:yukihiro_matsumoto=>{:known_for=>"Ruby"
       }
     
 }
-     
+     puts programmer_hash
     
 end
 
